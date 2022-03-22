@@ -27,7 +27,7 @@ function App() {
             href="index.html"
             className="w3-bar-item w3-button w3-padding-large"
           >
-            HOME
+            About
           </a>
           <a
             href="index.html#band"
